@@ -1,2 +1,2 @@
 # DroneControl
-Control software für eine Drohne
+Control software for a drone
